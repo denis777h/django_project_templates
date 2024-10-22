@@ -1,0 +1,4 @@
+django
+pytz
+djangorestframework
+pytest

@@ -1,0 +1,6 @@
+setup.py
+Pycharm.egg-info/PKG-INFO
+Pycharm.egg-info/SOURCES.txt
+Pycharm.egg-info/dependency_links.txt
+Pycharm.egg-info/requires.txt
+Pycharm.egg-info/top_level.txt
